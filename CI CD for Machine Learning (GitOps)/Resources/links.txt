@@ -1,0 +1,3 @@
+CI Cd for ML Blog = https://wandb.ai/hamelsmu/model-registry/reports/What-is-CI-CD-for-Machine-Learning---VmlldzozNzk2NDg2
+
+You don't need a bigger boat - https://github.com/jacopotagliabue/you-dont-need-a-bigger-boat
